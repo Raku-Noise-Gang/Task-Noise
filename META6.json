@@ -23,6 +23,7 @@
     "Audio::PortMIDI",
     "Audio::Icecast",
     "EuclideanRhythm",
+    "Audio::OggVorbis",
     "Audio::MIDI::Note"
   ],
   "tags": [
