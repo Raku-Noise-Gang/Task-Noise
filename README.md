@@ -39,10 +39,6 @@ files of each module if you experience problems.
 
 If you have a working Rakudo Perl 6 installation then you should be able to do:
 
-	 panda install Task::Noise
-
-or
-
 	zef install Task::Noise
 
 depending on your preference.
